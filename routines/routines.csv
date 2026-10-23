@@ -1,0 +1,5 @@
+name,job,current_clock,trigger_available,check_signal,proposed_cadence,status
+price-watch,alert when a market moves more than 2%,every 5m,exchange webhook,last price,on event + hourly backup,example
+repo-digest,summarize new commits,every 15m,git push webhook,latest commit hash,on push,example
+inbox-triage,sort new emails,every 10m,mail webhook,unread count,on event,example
+weekly-report,build Monday report,every hour,none,report date,Monday 08:00,example

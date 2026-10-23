@@ -1,0 +1,5 @@
+time,trigger,result,tokens_in,tokens_out,cost_usd,useful
+2026-10-22 09:00,clock-backup,no_change,1900,20,0.004,no
+2026-10-22 09:12,webhook,cache_hit,0,0,0.000,yes
+2026-10-22 10:47,webhook,full_run,20400,1100,0.050,yes
+2026-10-22 23:00,night-batch,6 jobs,41000,3800,0.110,yes
