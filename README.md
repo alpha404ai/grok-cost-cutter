@@ -87,7 +87,7 @@ The rows in [`cost/example.csv`](cost/example.csv) only show the format.
 
 ## More from this account
 
-- [grok-trading-desk](https://github.com/alpha404ai/grok-trading-desk): an autonomous paper-trading desk
+- [grok-trading-desk](https://github.com/alpha404ai/grok-trading-desk): an autonomous Grok trading desk
 - [grok-market-analyst](https://github.com/alpha404ai/grok-market-analyst): Grok scores market claims and grades itself
 - [grok-one-shot](https://github.com/alpha404ai/grok-one-shot): get a task done in one pass
 
